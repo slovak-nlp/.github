@@ -9,4 +9,4 @@ The current list of members (in alphabetical order):
   * [Department of Cybernetics and Artificial Intelligence, Faculty of Electrical Engineering and Informatics](https://kkui.fei.tuke.sk/)
   * [Department of Electronics and Multimedia Telecommunications, Faculty of Electrical Engineering and Informatics](https://kemt.fei.tuke.sk/)
 
-Please [contact us](mailto@peter.bednar@tuke.sk) to become a member.
+Please [contact us](mailto:peter.bednar@tuke.sk) to become a member.
