@@ -8,6 +8,6 @@ The current list of members (in alphabetical order):
 * **Technical University of Košice**
   * Faculty of Electrical Engineering and Informatics 
     * [Institute of Artificial Intelligence](https://uui.fei.tuke.sk/)
-    * [Department of Electronics and Multimedia Telecommunications](https://kemt.fei.tuke.sk/)
+    * [Department of Computer Networks](https://kps.fei.tuke.sk/)
 
 Please [contact us](mailto:peter.bednar@tuke.sk) to become a member.
