@@ -7,7 +7,7 @@ The current list of members (in alphabetical order):
   * [Ľ. Štúr Institute of Linguistics](https://www.juls.savba.sk)
 * **Technical University of Košice**
   * Faculty of Electrical Engineering and Informatics 
-    * [Department of Cybernetics and Artificial Intelligence](https://kkui.fei.tuke.sk/)
+    * [Institute of Artificial Intelligence](https://uui.fei.tuke.sk/)
     * [Department of Electronics and Multimedia Telecommunications](https://kemt.fei.tuke.sk/)
 
 Please [contact us](mailto:peter.bednar@tuke.sk) to become a member.
